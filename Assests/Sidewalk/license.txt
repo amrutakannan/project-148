@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sidewalk Tiles01
+* source:	https://sketchfab.com/3d-models/sidewalk-tiles01-1bad93c7434f4da88fa1a32ff309da35
+* author:	Nol22 (https://sketchfab.com/manoloescobedo22)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sidewalk Tiles01" (https://sketchfab.com/3d-models/sidewalk-tiles01-1bad93c7434f4da88fa1a32ff309da35) by Nol22 (https://sketchfab.com/manoloescobedo22) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
